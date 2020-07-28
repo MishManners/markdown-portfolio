@@ -1,1 +1,5 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](https://github.com/MishManners)
+
+[Twitter](https://twiiter.com/MishManners)
+
+[Instagram](https://instagram.com/MishManners_)
